@@ -1,0 +1,11 @@
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/TeacherController.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/JakartaRestConfiguration.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/exceptions/RollbackFailureException.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/exceptions/NonexistentEntityException.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/TeacherJpaController.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/util/PaginationHelper.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/tch/Teacher.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/resources/JakartaEE10Resource.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/exceptions/PreexistingEntityException.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/exceptions/IllegalOrphanException.java
+/Users/sarvarsaidazov/NetBeansProjects/mavenproject2/src/main/java/com/mavenproject2/util/JsfUtil.java

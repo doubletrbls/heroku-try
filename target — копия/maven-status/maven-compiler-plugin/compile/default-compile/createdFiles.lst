@@ -1,0 +1,13 @@
+com/mavenproject2/TeacherController$1.class
+com/mavenproject2/exceptions/PreexistingEntityException.class
+com/mavenproject2/exceptions/RollbackFailureException.class
+com/mavenproject2/TeacherJpaController.class
+com/mavenproject2/util/PaginationHelper.class
+com/mavenproject2/TeacherController.class
+com/mavenproject2/TeacherController$TeacherControllerConverter.class
+com/mavenproject2/JakartaRestConfiguration.class
+com/mavenproject2/exceptions/NonexistentEntityException.class
+com/mavenproject2/util/JsfUtil.class
+com/mavenproject2/resources/JakartaEE10Resource.class
+com/mavenproject2/exceptions/IllegalOrphanException.class
+com/mavenproject2/tch/Teacher.class
